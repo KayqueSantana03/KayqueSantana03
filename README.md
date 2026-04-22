@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-@kayque_stna-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
+
 🧠 What i know!
 
 🏗️ Análises e buscas com SQL
@@ -26,7 +26,7 @@
 ---
 ### 🛠️ Tech Stack
 
-#### DataBase
+#### 📢 DataBase
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
