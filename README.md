@@ -10,6 +10,9 @@
   <a href="https://github.com/KayqueSantana03/KayqueSantana03/blob/main/README.md">
     <img src="https://img.shields.io/badge/GitHub-KayqueSantana03-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/kayque-vital-3b6870232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/kayque_stna/">
     <img src="https://img.shields.io/badge/Instagram-@kayque_stna-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
