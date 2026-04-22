@@ -16,9 +16,13 @@
 </p>
 ---
 🧠 What i know!
+
 🏗️ Análises e buscas com SQL
+
 🧩 Metodologia ágil com TRELLO
+
 🔐 Segurança de dados e redes
+
 ---
 ### 🛠️ Tech Stack
 
