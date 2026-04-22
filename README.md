@@ -7,4 +7,4 @@
 
 <div>
   <i class="devicon-azuresqldatabase-plain colored"></i>
-<div>
+</div>
