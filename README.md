@@ -5,4 +5,6 @@
 - 🧠 Estou viciado em aprender SQL e NoSQL ...
 - ⚡ Amo Inglês desde jovem, e nao vejo a hora de me tornar fluente! ...
 
-<i class="devicon-azuresqldatabase-plain colored"></i>
+<div>
+  <i class="devicon-azuresqldatabase-plain colored"></i>
+<div>
