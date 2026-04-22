@@ -1,9 +1,9 @@
 ## Olà!!, Me chamo Kayque.
 
 
-- 👨‍💼 Eu estou em busca de um trabalho na área de dados ...
-- 🧠 Estou viciado em aprender SQL e NoSQL ...
-- ⚡ Amo Inglês desde jovem, e nao vejo a hora de me tornar fluente! ...
+- 👨‍💼 Eu estou em busca de um trabalho na área de dados 
+- 🧠 Estou viciado em aprender SQL e NoSQL 
+- ⚡ Amo Inglês desde jovem, e nao vejo a hora de me tornar fluente! 
 
 🌐 Where to find me
 <p align="left">
